@@ -16,3 +16,4 @@ Early experiment — building & exploring.
 ## 🧠 Thought Logs
 - Day 1: Started building the base idea
 - Day 2: Added basic thought analyzer logic
+- Day 3: Testing GitHub stats visibility
