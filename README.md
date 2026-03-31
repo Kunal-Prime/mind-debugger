@@ -12,3 +12,6 @@ Early experiment — building & exploring.
 - Add basic logic system
 - Try simple AI interaction
 - Improve structure
+  
+## 🧠 Thought Logs
+- Day 1: Started building the base idea
