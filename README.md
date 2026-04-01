@@ -19,3 +19,4 @@ Early experiment — building & exploring.
 - Day 3: Testing GitHub stats visibility
 - Day 4: Improved analysis accuracy and performance
 - Day 5: Refined logic and fixed minor bugs
+- Day 6: Deployment & Documentation
