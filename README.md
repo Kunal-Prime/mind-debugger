@@ -20,3 +20,4 @@ Early experiment — building & exploring.
 - Day 4: Improved analysis accuracy and performance
 - Day 5: Refined logic and fixed minor bugs
 - Day 6: Deployment & Documentation
+- Day 7: Polished edge cases, improved UX clarity and interaction flow, and gathered early feedback to guide
