@@ -21,3 +21,6 @@ Early experiment — building & exploring.
 - Day 5: Refined logic and fixed minor bugs
 - Day 6: Deployment & Documentation
 - Day 7: Polished edge cases, improved UX clarity and interaction flow, and gathered early feedback to guide
+
+## 🎯 Goal
+Understand how human thinking can be modeled into logic systems
