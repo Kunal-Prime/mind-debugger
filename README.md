@@ -24,3 +24,4 @@ Early experiment — building & exploring.
 
 ## 🎯 Goal
 Understand how human thinking can be modeled into logic systems
+Explore how cognitive processes like reasoning, perception, and decision-making can be translated into formal rules and computational models.
